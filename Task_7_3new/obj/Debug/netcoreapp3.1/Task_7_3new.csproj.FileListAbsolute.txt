@@ -1,0 +1,13 @@
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.exe
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.deps.json
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.runtimeconfig.json
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.runtimeconfig.dev.json
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.dll
+C:\Users\Domovou\source\repos\Task_7_3new\bin\Debug\netcoreapp3.1\Task_7_3new.pdb
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.csprojAssemblyReference.cache
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.AssemblyInfoInputs.cache
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.AssemblyInfo.cs
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.csproj.CoreCompileInputs.cache
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.dll
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.pdb
+C:\Users\Domovou\source\repos\Task_7_3new\obj\Debug\netcoreapp3.1\Task_7_3new.genruntimeconfig.cache
